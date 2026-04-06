@@ -1,2 +1,2 @@
-# northmere-studio.github.io
+# northmerestudio.github.io
 Page for Northmere Studio
